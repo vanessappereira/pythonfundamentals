@@ -17,6 +17,7 @@ try:
 
     if runCalculator == 2:
         print("I understand... See you next time!");
+        exit()
 
     else:
         try:
