@@ -1,7 +1,5 @@
-#Based on previous task, add 2 operators which sums and subtracts the sides of a triangle, being opcional a verification if its positive or not
+#Merge previous tasks from triangle and calculator
 
-
-# Triangle type adding loop cycle
 def sumSide():
     print("Welcome to the triangle side Basic Operator (Adding)! \n");
     while True:
