@@ -1,0 +1,1 @@
+#Baseando - se no ficheiro "Introdução_às_Classes.ipynb", pense num caso prático diferente, e faça uma classe e uma sub-classe com os respetivos objetos/argumentos!
